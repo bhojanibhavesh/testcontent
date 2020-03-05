@@ -1,0 +1,34 @@
+{
+  "list": [
+    {
+      "imageUrl": "https://p1.imageopt.net/9zt-ct/q",
+      "title": "Swift & Lean CDN",
+      "description": "Request for image of size equal to the view size, which mostly is smaller than the original image and get it from our global CDN, resulting in less data transfer from a near location."
+    },
+    {
+      "imageUrl": "https://p1.imageopt.net/369-cu/q",
+      "title": "Design Freedom",
+      "description": "Design different layouts for different form factors, use different images for different aspect ratios, since the url stays the same no dependency on development teams."
+    },
+    {
+      "imageUrl": "https://p1.imageopt.net/tku-cv/q",
+      "title": "One URL per visual",
+      "description": "No need to maintain multiple URLs for thumbnails/images of different sizes. Just upload a high resolution image and let imageOpt take care of serving as many different size images as needed."
+    },
+    {
+      "imageUrl": "https://p1.imageopt.net/23b-cw/q",
+      "title": "Crop or Fit",
+      "description": "Request for an image that should be cropped to view size, or for an image that fits in the view. Ex: List view requires cropped image for consistent look and full screen view requires image to fit in the view for detailed look."
+    },
+    {
+      "imageUrl": "https://p1.imageopt.net/ewy-cx/q",
+      "title": "Crop Options",
+      "description": "Each image has important areas. For each image that is uploaded we provide options to choose which sides of image to retain while cropping. This option depends on image content, the clients are agnostic to this."
+    },
+    {
+      "imageUrl": "https://d1drksuzh59632.cloudfront.net/w-6hbf35vy/q",
+      "title": "Localized images",
+      "description": "imageOpt enables localization of images, add images of different languages to imageSet, using one URL and a language parameter get the localized to user language"
+    }
+  ]
+}
